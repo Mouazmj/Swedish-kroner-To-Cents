@@ -3,5 +3,7 @@ const button = document.getElementById('app_btn')
 
 button.addEventListener('click', () => {
     const theValue = parseFloat(inputValue.value)
-    console.log(theValue)
+    const exchangeRate = 11
+    const krToDollars = Math.round(theValue / exchangeRate)
+    console.log(krToDollars)
 })
