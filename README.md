@@ -1,0 +1,1 @@
+# Swedish-kroner-To-Cents
