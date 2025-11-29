@@ -46,3 +46,14 @@ h1 {
     background-color: #0A2A4D; 
     color: #fff;
 }
+
+
+.app_input {
+    width: 200px;
+    height: 30px;
+    font-size: 25px;
+}
+
+.app_input:hover {
+    border-color: greenyellow;
+}
