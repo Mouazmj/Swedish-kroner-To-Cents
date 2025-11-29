@@ -66,3 +66,14 @@ h1 {
     position: relative;
     right: 40px;
 }
+
+.result {
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    margin: 20px auto;
+    position: relative;
+    bottom: 200px;
+}

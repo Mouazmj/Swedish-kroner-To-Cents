@@ -28,4 +28,7 @@ Quarters: ${quarters}<br>
 Dimes: ${dimes}<br>
 Nickels: ${nickels}<br>
 Pennies: ${pennies}`
+
+result.style.padding = '50px'
+result.style.border = '7px dotted red';
 })
