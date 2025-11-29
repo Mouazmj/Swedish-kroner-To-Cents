@@ -24,3 +24,25 @@ h1 {
     font-size: 30px;
     color: #111
 }
+
+.app_btn {
+    width: 100px;
+    height: 30px;
+    font-size: 20px;
+    color: #111;
+    border: 0;
+    font-weight: 600;
+    cursor: pointer;   
+    border-radius: 20px; 
+}
+
+.app_btn:active {
+    background-color: #0D3B66;
+    color: #fff;
+    transform: scale(0.95);
+}
+
+.app_btn:hover {
+    background-color: #0A2A4D; 
+    color: #fff;
+}
