@@ -25,5 +25,7 @@ const remainingAfterDimes = remainingCents % 10
 
 result.innerHTML = `Total cents: ${totalCents}<br>
 Quarters: ${quarters}<br>
-Dimes: `
+Dimes: ${dimes}<br>
+Nickels: ${nickels}<br>
+Pennies: ${pennies}`
 })
